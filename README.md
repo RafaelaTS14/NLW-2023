@@ -1,30 +1,18 @@
 <p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
+  <img src=".github/preview.png" alt="demonstração do projeto width="100%" />
 </p>
 
 ## 💻 Projeto
+Esse é um projeto web responsivo de cápsula do tempo para exibir memórias em uma timeline.
 
-Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos, fotos e vídeos de acontecimentos marcantes da sua vida, organizados por mês e ano.
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido durante o NLW da Rocketseat com as segunintes tecnologias:
 
-## 📝 Licença
+-HTML
+-CSS
+-Git e Github
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-
----
+## 🏷 Layout
+Você pode visualizar o layout do projeto através 
+[desse link](https://www.figma.com/file/IGS3EYO1gR9AkBJtaR7ZiC/C%C3%A1psula-do-tempo-%E2%80%A2-Trilha-Explorer-c%C3%B3pia?type=design&node-id=306%3A84&t=dR92JVImUox4EOW5-1).
+É necessário ter uma conta no [Figma](https://www.figma.com) para poder visualizar esse conteúdo.
